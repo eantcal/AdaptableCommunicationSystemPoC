@@ -1,5 +1,6 @@
-# AdaptableCommunicationSystemPoC
-AdaptableCommunicationSystem PoC Implementation
+# Adaptable Communication System Emulator (PoC)
+
+This is an implementation of a ACS Emulator (proof-of-concept).
 
 ## Abstract
 Communication requirements of railway operators for different types of services, including voice, video, railway signalling, data transmission are growing fast. As such requirements on railway communications evolve, there is a need to move towards new telecommunication technologies. The European Railways Train Management System (ERTMS) utilizes the Global System for Mobile Communications - Railway (GSM-R) as the legacy telecommunication network connecting trains with the ground. Such technology is to be substituted since it cannot satisfy an increasing demand of connectivity for new railway applications. 
