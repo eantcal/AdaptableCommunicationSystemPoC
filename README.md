@@ -14,6 +14,8 @@ This software has been written to adopt the SIP protocol (a SIP proxy/dedicated 
 
 It relies on Linux Tunnel Addressing Protocol (TUN/TAP) module to create virtual network devices used to represent the endpoint interfaces of multi-path tunnels.
 
+[ACS Emulator Software architecture scheme](https://www.mdpi.com/applsci/applsci-12-03013/article_deploy/html/images/applsci-12-03013-g009.png)
+
 ## Reference
 You can find more information about ACS at https://www.mdpi.com/2076-3417/12/6/3013 and https://ieeexplore.ieee.org/document/9662904.
 
